@@ -1,4 +1,4 @@
-# ELTE IK - Prog.Inf. BSc Záróvizsga tételek kidolgozása
+# ELTE IK - Prog.Inf. BSc Záróvizsga tételek kidolgozása [ENGLISH](English%20version/README.md)
 
 A záróvizsgázó hallgató a megadott tételjegyzékből véletlenszerűen húz egy tételt. A szóbeli felelés során a bizottság azt várja el a hallgatótól, hogy az adott témában átfogó szinten ismerje a legfontosabb fogalmakat, eredményeket és az azok közötti összefüggéseket.
 
